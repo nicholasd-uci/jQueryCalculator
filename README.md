@@ -1,7 +1,7 @@
-# jQueryCalculator
+# jQuery Calculator
 ## Fully Functional jQuery Calculator
 
-> This repo includes jQuery and HTML in order to create a fully functional calculator application. 
+> This repo includes HTML & jQuery in order to create a fully functional calculator application. 
 
 ```
     - Front-end was created using BootStrap4
@@ -30,7 +30,7 @@
 
 ## LINKS
 
-- [jQuery Calculator Link]()
+- [jQuery Calculator Link](https://nicholasd-uci.github.io/jQueryCalculator/)
 - [Github Repo Link](https://github.com/nicholasd-uci/jQueryCalculator)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 
