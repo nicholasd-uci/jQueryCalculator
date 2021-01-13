@@ -31,7 +31,7 @@
 ## LINKS
 
 - [jQuery Calculator Link](https://nicholasd-uci.github.io/jQueryCalculator/)
-- [Github Repo Link](https://github.com/nicholasd-uci/jQueryCalculator)
+- [GitHub Repo Link](https://github.com/nicholasd-uci/jQueryCalculator)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 
 - - -
